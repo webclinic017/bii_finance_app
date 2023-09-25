@@ -1,5 +1,0 @@
-#!/home/sanhaji/Projects/bii_finance_app/envs/Py310_env/bin/python3.10
-
-from idlelib.pyshell import main
-if __name__ == '__main__':
-    main()
